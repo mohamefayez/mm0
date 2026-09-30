@@ -1,0 +1,11 @@
+# WhatsApp checkout
+
+Checkout now has two steps: contact/shipping and review. There is no payment method selector or payment gateway. The final button saves a server-validated order, then navigates directly to the owner's `wa.me` chat with the order reference, product names, sizes, quantities, item prices, delivery fee, total and customer address. The customer presses Send in WhatsApp; opening the chat does not confirm message delivery. The receipt also has an Open WhatsApp link for retrying.
+
+The WhatsApp number is managed under administration → Settings, as international digits without `+`. Until a valid owner number is configured, the final button is disabled and the server rejects WhatsApp orders without saving them. Egyptian numbers must have `20` followed by the 10-digit mobile number without the leading local zero.
+
+Saved orders are marked `payment: whatsapp`, meaning settlement is arranged with the owner, not that a payment has occurred. Historical COD orders remain supported. Existing server pricing, stock, delivery rules, request origin checks and idempotency remain in force. Live orders reserve stock when saved; cancel unconfirmed orders through administration to restore stock. Test orders are clearly labeled in the WhatsApp message and do not affect stock.
+
+The owner confirmed local number `01070332568`; the persisted WhatsApp recipient is `201070332568`. Test fixtures use a separate dummy number and intercept WhatsApp navigation, so automated tests send no messages.
+
+Validated on 2026-09-29: seven commerce unit tests passed, including missing-recipient rejection, authoritative WhatsApp totals, retries, paused ordering and stock protection. The focused browser test passed from product selection through WhatsApp navigation and saved-order administration. WhatsApp was fulfilled by a local test response; no messages were sent. TypeScript, targeted ESLint and production build passed. After the owner corrected the number, settings were backed up and the recipient saved. A separate in-memory order verified the exact recipient, reference and total in the generated link without sending any message. Other settings remain unchanged; the local store is still in test mode.

@@ -1,0 +1,50 @@
+export type Gender = "men" | "women" | "unisex";
+export type Product = {
+  id: string;
+  slug: string;
+  brandId: string;
+  name: string;
+  nameAr?: string;
+  descriptionAr?: string;
+  published?: boolean;
+  approved?: boolean;
+  revision?: number;
+  gender: Gender;
+  concentration:
+    "EDP" | "EDT" | "Extrait" | "Cologne" | "Parfum" | "Unconfirmed";
+  description: string;
+  story?: string;
+  scentFamilies: string[];
+  topNotes: string[];
+  heartNotes: string[];
+  baseNotes: string[];
+  occasions: string[];
+  seasons: string[];
+  projection: "soft" | "moderate" | "strong";
+  categories: string[];
+  sizes: {
+    id: string;
+    label: string;
+    ml: number;
+    price: number;
+    stock: number;
+  }[];
+  images: { src: string; alt: string }[];
+  compareAtPrice?: number;
+  rating?: number;
+  reviewCount?: number;
+  badges?: string[];
+  isNew?: boolean;
+  isBestSeller?: boolean;
+  isFeatured?: boolean;
+  createdAt: string;
+};
+export type Brand = {
+  id: string;
+  slug: string;
+  name: string;
+  description: string;
+  logo?: string;
+};
+export type CartItem = { productId: string; sizeId: string; quantity: number };
+export type CatalogQuery = Record<string, string | string[] | undefined>;

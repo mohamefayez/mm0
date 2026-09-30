@@ -1,0 +1,18 @@
+services:
+  store:
+    build:
+      context: .
+      args:
+        NEXT_PUBLIC_SITE_URL: ${NEXT_PUBLIC_SITE_URL:-http://localhost:3000}
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3000:3000"
+    environment:
+      ASEL_DATA_DIR: /app/data
+      ASEL_PUBLIC_ORIGIN: ${ASEL_PUBLIC_ORIGIN:-http://localhost:3000}
+    volumes:
+      - store-data:/app/data
+      - store-admin:/app/.local
+volumes:
+  store-data:
+  store-admin:

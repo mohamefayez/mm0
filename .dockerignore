@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.local
+data
+release
+test-results
+playwright-report
+.env*
+*.log
+*.zip
+*.tsbuildinfo
+صور المنتجات
+اللوجو
+docs/screenshots

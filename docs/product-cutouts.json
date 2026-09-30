@@ -1,0 +1,101 @@
+[
+  {
+    "id": "libre",
+    "prompt": "Use case: background-extraction. Preserve the supplied Libre bottle, black cap, gold YSL ornament and amber liquid; remove marble and fabric. Genuine transparent alpha, centered square composition.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-fcc7dfea-aa24-4590-bbc5-75fcbc0f3060.png",
+    "src": "/products/libre-cutout.png"
+  },
+  {
+    "id": "nude-coral-diamond",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Orange faceted bottle, white spherical cap. Label NUDE CORAL DIAMOND. Remove hand carefully.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-3bbd3e2a-54bf-411c-8f8a-5d9a5f39c6a6.png",
+    "src": "/products/nude-coral-diamond-cutout.png"
+  },
+  {
+    "id": "balas-rose",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Burgundy faceted bottle at right with golden spherical cap, gold label BALAS ROSE. Remove large adjacent carton and all wrapping.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-4a752d0e-aded-4d5c-8705-d08a959c4f28.png",
+    "src": "/products/balas-rose-cutout.png"
+  },
+  {
+    "id": "hersh-rouge",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Burgundy HERSH ROUGE bottle with golden crown cap. Preserve Arabic and English text. Remove decorative objects.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-7906758d-a8e7-4305-a526-7ae90b24d086.png",
+    "src": "/products/hersh-rouge-cutout.png"
+  },
+  {
+    "id": "black-opium",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Small black glitter bottle with rounded black cap and amber circular window. Preserve only text actually visible; do not invent sharper writing.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-6e3079ab-d72b-4085-a530-eaf23ce16bc8.png",
+    "src": "/products/black-opium-cutout.png"
+  },
+  {
+    "id": "emerald-soul-diamond",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Emerald green faceted bottle at right, white round cap, pale label EMERALD SOUL DIAMOND. Remove carton.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-6ea130c2-c732-4cd2-a6fa-319404d7b282.png",
+    "src": "/products/emerald-soul-diamond-cutout.png"
+  },
+  {
+    "id": "coco-mademoiselle",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the coco-mademoiselle bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-307bdaa2-a8b9-43f7-8c29-c0b2df2b0d6f.png",
+    "source": "/products/asset-012.jpeg",
+    "src": "/products/coco-mademoiselle-cutout.png"
+  },
+  {
+    "id": "burberry-her",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the burberry-her bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-1f48b002-0e2d-4c9c-9db0-9c291f95ef8e.png",
+    "source": "/products/asset-013.jpeg",
+    "src": "/products/burberry-her-cutout.png"
+  },
+  {
+    "id": "jadore",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the jadore bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-f00bf072-882d-447c-b92b-2405120f31bb.png",
+    "source": "/products/asset-015.jpeg",
+    "src": "/products/jadore-cutout.png"
+  },
+  {
+    "id": "212-men",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the 212-men bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-f3ee08f1-dac4-4cc0-818e-6094d46bf8d4.png",
+    "source": "/products/asset-016.jpeg",
+    "src": "/products/212-men-cutout.png"
+  },
+  {
+    "id": "yara",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the yara bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-8a50eadd-311c-4b1c-a57c-79688f95591d.png",
+    "source": "/products/asset-028.jpeg",
+    "src": "/products/yara-cutout.png"
+  },
+  {
+    "id": "aventus",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the aventus bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-a7cd3bef-8f85-4dd2-94b0-88630b82d390.png",
+    "source": "/products/asset-021.jpeg",
+    "src": "/products/aventus-cutout.png"
+  },
+  {
+    "id": "good-girl",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the good-girl bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-dc14ed8b-5cfa-4367-bc76-827673c44f29.png",
+    "source": "/products/asset-023.jpeg",
+    "src": "/products/good-girl-cutout.png"
+  },
+  {
+    "id": "black-orchid",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the black-orchid bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-6dba4a77-1527-4998-b096-43631e206de7.png",
+    "source": "/products/asset-027.jpeg",
+    "src": "/products/black-orchid-cutout.png"
+  },
+  {
+    "id": "pink-diamond-sakura",
+    "prompt": "Use case: background-extraction. Edit the supplied actual perfume photograph into a professional ecommerce product cutout. Remove background, hands, props, packaging boxes and floor; retain ONLY the specified bottle. Preserve bottle identity, proportions, cap, colors, materials, embossed details and ALL original label text exactly. Do not invent branding or redesign. Straighten bottle upright, fully visible and centered on a square canvas with 10% transparent margin top/bottom. Genuine transparent alpha background, no checkerboard pixels or solid background, clean antialiased edges suitable on dark and light surfaces. No added text, props, shadows or reflections. Retain only the pink-diamond-sakura bottle; remove all surrounding props, hands, boxes and spray mist. Preserve visible original label lettering.",
+    "generated": "C:\\Users\\moham\\.codex\\generated_images\\01a0e5b9-a22f-7653-9c5a-7fcc7c3a8342\\exec-64c3a414-67e6-4f8e-a615-3b5b08ef2a52.png",
+    "source": "/products/asset-043.jpeg",
+    "src": "/products/pink-diamond-sakura-cutout.png"
+  }
+]
