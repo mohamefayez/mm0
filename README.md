@@ -42,7 +42,13 @@ Prices, stock and photos can be changed through `/ar/admin` without a rebuild or
 
 ## GitHub and hosting
 
-GitHub stores the source code. GitHub Pages cannot run this application's Node server, administration or SQLite orders. See [publication instructions](docs/GITHUB-PUBLISH.md) for the prepared source package and Docker/Node deployment. Keep test mode enabled while prices and business details are unfinished.
+The repository includes two builds. `npm run build` keeps the full Node/SQLite application and administration. `npm run build:pages` generates a separate static preview in `pages-out/`, using the same storefront components, with client-side search and cart plus direct WhatsApp enquiries. The Pages build contains no admin APIs, order database, private credentials or customer data.
+
+The GitHub Pages workflow builds and deploys on pushes to `main`. Expected preview URL: `https://mohamefayez.github.io/mm0/`. If automatic Pages setup is unavailable, select **GitHub Actions** under repository **Settings → Pages → Source**, then rerun the workflow.
+
+On Pages, prices come from `src/data/seed-catalog.ts` and `src/data/supplied-catalog.ts`; editing and pushing these files rebuilds the preview. The server administration cannot update a Pages deployment. Displayed prices remain provisional and delivery is confirmed with the owner on WhatsApp. The shopper must press Send; the static site does not record or confirm the order.
+
+See [publication instructions](docs/GITHUB-PUBLISH.md) for the full Node/Docker version. Keep preview mode enabled while prices and business details are unfinished.
 
 ## Data and deployment
 
